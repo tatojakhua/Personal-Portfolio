@@ -126,27 +126,30 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Tato is an exceptionally motivated and hardworking individual who possesses a keen eye for detail. He loves digging deep into new technolgies.",
+    name: "Tornike Lomidze",
+    designation: "Senior Developer",
+    company: "Crystal",
+    image:
+      "https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/355685909_5912424168861617_6447236426166156165_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=FnEd0te5W0YAX_uRhFy&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfAD4bV22PvFAyZqA1asDjzQ2RzgfCJrnzUX33gkmOWovQ&oe=64B16EB0",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "I was Tato's mentor when Tato was starting to learn programming, so I know he has good basics in javascript, understands the basic principles of how modern web apps work, and gained little experience using React.   One of Tato's standout qualities is his unwavering work ethic and genuine enthusiasm for his craft. He consistently goes above and beyond, seeking a deeper comprehension of complex topics and never settling for basic solutions. Looking ahead, I believe Tato's future plans are well-defined and progressing in the right direction. Focusing on honing his skills in algorithms, design patterns, and tackling medium to complex UI assemblies will undoubtedly contribute to his growth as a developer.",
+    name: "Giorgi Dzirkvelishvili",
+    designation: "React Developer",
+    company: "EPAM",
+    image:
+      "https://scontent.ftbs6-2.fna.fbcdn.net/v/t1.6435-9/118765991_3303638493076987_4870986837358528307_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=x-2Q6tDfXAoAX8_1pX7&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfBepUNmh0ZNsLoslz90RYX96zIRRvobd4LS-fZMpsZfvA&oe=64D47803",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "I have started this journey with Tato from the very beginning and witnessing his progress fills me with immense pride. Tato's dedication and tireless work ethic makes him one of the most hardworking individuals I have ever encountered. His genuine passion for programming and insatiable thirst for learning is truly exceptional qualities. This is just the beginning of Tato's remarkable path, and I have no doubt that he will achieve great success as a developer. The future holds limitless opportunities for growth and accomplishment.",
+    name: "Giviko Tokhadze",
+    designation: "React Junior Developer",
+    company: "Frelancer",
+    image:
+      "https://scontent.ftbs6-2.fna.fbcdn.net/v/t1.6435-9/173080507_10219065695128641_3554736197753379174_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=72V5ORuK-wcAX8C262j&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfBg_r3qey-dP2l4AGsczv3-47slDKSTfCv0_0MK37Wrng&oe=64D4A29B",
   },
 ];
 
