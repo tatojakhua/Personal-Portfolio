@@ -137,7 +137,7 @@ const testimonials = [
     testimonial:
       "I was Tato's mentor when Tato was starting to learn programming, so I know he has good basics in javascript, understands the basic principles of how modern web apps work, and gained little experience using React.   One of Tato's standout qualities is his unwavering work ethic and genuine enthusiasm for his craft. He consistently goes above and beyond, seeking a deeper comprehension of complex topics and never settling for basic solutions. Looking ahead, I believe Tato's future plans are well-defined and progressing in the right direction. Focusing on honing his skills in algorithms, design patterns, and tackling medium to complex UI assemblies will undoubtedly contribute to his growth as a developer.",
     name: "Giorgi Dzirkvelishvili",
-    designation: "React Developer",
+    designation: "Software engineer",
     company: "EPAM",
     image:
       "https://scontent.ftbs6-2.fna.fbcdn.net/v/t1.6435-9/118765991_3303638493076987_4870986837358528307_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=x-2Q6tDfXAoAX8_1pX7&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfBepUNmh0ZNsLoslz90RYX96zIRRvobd4LS-fZMpsZfvA&oe=64D47803",
