@@ -131,7 +131,7 @@ const testimonials = [
     designation: "Senior Developer",
     company: "Crystal",
     image:
-      "https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/355685909_5912424168861617_6447236426166156165_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=FnEd0te5W0YAX_uRhFy&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfAD4bV22PvFAyZqA1asDjzQ2RzgfCJrnzUX33gkmOWovQ&oe=64B16EB0",
+      "https://scontent.ftbs10-1.fna.fbcdn.net/v/t39.30808-6/274681428_4478869082217140_1287035982776914174_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=pKySMt12gIAAX_EaSf2&_nc_ht=scontent.ftbs10-1.fna&oh=00_AfCK-Rh6sCN6H91RGxdl5Qdis4L_4qlalE2PudummPJmoQ&oe=64C1823A",
   },
   {
     testimonial:
