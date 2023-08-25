@@ -14,10 +14,12 @@ import javascript from "./tech/javascript.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
-
-import tindog from "./tindog.png";
+import Floyfy from "./Floyfy.png";
 import Khelad from "./Khelad.png";
 import Letflix from "./Letflix.png";
+import giviko from "./giviko.jpg";
+import toko from "./toko.jpg";
+import gio from "./gio.jpg";
 
 export {
   logo,
@@ -35,7 +37,10 @@ export {
   reactjs,
   redux,
   tailwind,
-  tindog,
+  Floyfy,
   Khelad,
   Letflix,
+  giviko,
+  gio,
+  toko,
 };

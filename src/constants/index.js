@@ -10,9 +10,12 @@ import {
   redux,
   tailwind,
   git,
-  tindog,
   Khelad,
   Letflix,
+  Floyfy,
+  toko,
+  gio,
+  giviko,
 } from "../assets";
 
 export const navLinks = [
@@ -130,8 +133,7 @@ const testimonials = [
     name: "Tornike Lomidze",
     designation: "Senior Developer",
     company: "Crystal",
-    image:
-      "https://scontent.ftbs10-1.fna.fbcdn.net/v/t39.30808-6/274681428_4478869082217140_1287035982776914174_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=pKySMt12gIAAX_EaSf2&_nc_ht=scontent.ftbs10-1.fna&oh=00_AfCK-Rh6sCN6H91RGxdl5Qdis4L_4qlalE2PudummPJmoQ&oe=64C1823A",
+    image: toko,
   },
   {
     testimonial:
@@ -139,8 +141,7 @@ const testimonials = [
     name: "Giorgi Dzirkvelishvili",
     designation: "Software engineer",
     company: "EPAM",
-    image:
-      "https://scontent.ftbs6-2.fna.fbcdn.net/v/t1.6435-9/118765991_3303638493076987_4870986837358528307_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=x-2Q6tDfXAoAX8_1pX7&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfBepUNmh0ZNsLoslz90RYX96zIRRvobd4LS-fZMpsZfvA&oe=64D47803",
+    image: gio,
   },
   {
     testimonial:
@@ -148,32 +149,31 @@ const testimonials = [
     name: "Giviko Tokhadze",
     designation: "React Junior Developer",
     company: "Frelancer",
-    image:
-      "https://scontent.ftbs6-2.fna.fbcdn.net/v/t1.6435-9/173080507_10219065695128641_3554736197753379174_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=72V5ORuK-wcAX8C262j&_nc_ht=scontent.ftbs6-2.fna&oh=00_AfBg_r3qey-dP2l4AGsczv3-47slDKSTfCv0_0MK37Wrng&oe=64D4A29B",
+    image: giviko,
   },
 ];
 
 const projects = [
   {
-    name: "tindog",
+    name: "Floyfy",
     description:
-      "A web-based platform that allows users to search for a soul mate for their pets.",
+      "User-friendly web platform to adjust music elements in tracks for a personalized listening experience.",
     tags: [
       {
-        name: "HTML5",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "CSS3",
+        name: "JavaScript",
         color: "green-text-gradient",
       },
       {
-        name: "Bootstrap5",
+        name: "TailwindCSS",
         color: "pink-text-gradient",
       },
     ],
-    image: tindog,
-    source_code_link: "https://github.com/tatojakhua/tindog",
+    image: Floyfy,
+    source_code_link: "https://github.com/tatojakhua/FloyFy",
   },
   {
     name: "Khelad",
@@ -185,11 +185,11 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "CSS3",
+        name: "JavaScript",
         color: "green-text-gradient",
       },
       {
-        name: "JavaScript",
+        name: "CSS3",
         color: "pink-text-gradient",
       },
     ],
@@ -202,7 +202,7 @@ const projects = [
       "The platform features IMDB's top 100 movies and its trailers.",
     tags: [
       {
-        name: "React.js",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
