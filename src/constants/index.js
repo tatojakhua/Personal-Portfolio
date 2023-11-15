@@ -16,6 +16,9 @@ import {
   toko,
   gio,
   giviko,
+  ltdBoni,
+  next,
+  typeScript,
 } from "../assets";
 
 export const navLinks = [
@@ -66,8 +69,16 @@ const technologies = [
     icon: javascript,
   },
   {
+    name: "TypeScript",
+    icon: typeScript,
+  },
+  {
     name: "React JS",
     icon: reactjs,
+  },
+  {
+    name: "Next JS",
+    icon: next,
   },
   {
     name: "Redux Toolkit",
@@ -216,6 +227,27 @@ const projects = [
     ],
     image: Letflix,
     source_code_link: "https://github.com/tatojakhua/Letflix",
+  },
+  {
+    name: "Boni CRM",
+    description:
+      "Ltd. Boni founder created a streamlined full-stack CRM with Next, TypeScript, Tailwind CSS, Ant Design, and Google Sheets API integration.",
+    tags: [
+      {
+        name: "Next",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "TypeScrpit",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Ant Design",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: ltdBoni,
+    source_code_link: "https://github.com/anatoliJakhua/boni",
   },
 ];
 

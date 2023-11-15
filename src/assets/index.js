@@ -6,7 +6,6 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
-
 import css from "./tech/css.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
@@ -20,6 +19,9 @@ import Letflix from "./Letflix.png";
 import giviko from "./giviko.jpg";
 import toko from "./toko.jpg";
 import gio from "./gio.jpg";
+import ltdBoni from "./ltdBoni.png";
+import next from "./tech/next.png";
+import typeScript from "./tech/typescript.png";
 
 export {
   logo,
@@ -43,4 +45,7 @@ export {
   giviko,
   gio,
   toko,
+  ltdBoni,
+  next,
+  typeScript,
 };
