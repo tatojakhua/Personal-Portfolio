@@ -158,7 +158,7 @@ const testimonials = [
     testimonial:
       "I have started this journey with Tato from the very beginning and witnessing his progress fills me with immense pride. Tato's dedication and tireless work ethic makes him one of the most hardworking individuals I have ever encountered. His genuine passion for programming and insatiable thirst for learning is truly exceptional qualities. This is just the beginning of Tato's remarkable path, and I have no doubt that he will achieve great success as a developer. The future holds limitless opportunities for growth and accomplishment.",
     name: "Giviko Tokhadze",
-    designation: "React Junior Developer",
+    designation: "React ",
     company: "Noxtton",
     image: giviko,
   },
